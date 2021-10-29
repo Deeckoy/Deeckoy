@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Deeckoy
-- 🌱 I’m currently learning HTML, CSS, JS, Django
+- 🌱 Currently I know HTML(PUG), CSS(SCSS)
+- 🌱 I’m currently learning JS, ExpressJS, Ajax
 
 <!---
 Deeckoy/Deeckoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
