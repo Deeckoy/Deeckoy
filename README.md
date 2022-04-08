@@ -70,7 +70,7 @@ A front-end web developer from Moldova.
   </ul>
 </details>
 
-<details open="true">
+<details>
   <summary>My projects</summary>
 
   ## **Adventure Path**
@@ -79,6 +79,8 @@ A front-end web developer from Moldova.
 	  <li>
       <p>Type: <strong><em>Promo page</em></strong></p>
       <p>Adaptivity: <strong><em>Desktop</em></strong> / <strong><em>Mobile</em></strong></p>
+		  <p>Repository: <a href="https://github.com/Deeckoy/Adventure-Path/">Adventure Path Repository</a></p>
+		  <p>GitHub Pages: <a href="https://deeckoy.github.io/Adventure-Path/">Adventure Path GitHubPages</a></p>
       <p>Technologies: </p>
       <img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" />
       <img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" />
