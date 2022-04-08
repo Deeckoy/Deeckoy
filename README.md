@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Edward 👨‍💻
-A front-end web developer from Moldova. 
+A front-end web developer from Moldova.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edward-haussauer/)
 [![Instagram](https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edwardhaussauer/)
@@ -31,7 +31,7 @@ A front-end web developer from Moldova.
 
 <details>
   <summary>Resume</summary>
-  
+
   ## Education
   <ul>
 	  <li>
@@ -40,7 +40,7 @@ A front-end web developer from Moldova.
 		  <span>📍 L. T. V. Suhomlinski - Yedintsy, Edinet, Moldova</span>
 	  </li>
   </ul>
-  
+
   ## Experience
 
   <ul>
@@ -50,7 +50,7 @@ A front-end web developer from Moldova.
 		  <span>📍 Moscow, Russia</span>
       <p>
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-			  <img src="https://img.shields.io/badge/Jade-a86454?style=for-the-badge&logo=pug&logoColor=white" />
+			  <img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" />
         <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
         <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 		  </p>
@@ -62,10 +62,29 @@ A front-end web developer from Moldova.
 		  <span>📍 Moscow, Russia</span>
       <p>
 			  <img src="https://img.shields.io/badge/webpack-1c78c0?style=for-the-badge&logo=webpack&logoColor=white" />
-			  <img src="https://img.shields.io/badge/Jade-a86454?style=for-the-badge&logo=pug&logoColor=white" />
+			  <img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" />
         <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
         <img src="https://img.shields.io/badge/github-333333?style=for-the-badge&logo=github&logoColor=white" />
 		  </p>
+	  </li>
+  </ul>
+</details>
+
+<details open="true">
+  <summary>My projects</summary>
+
+  ## **Adventure Path**
+
+  <ul>
+	  <li>
+      <p>Type: <strong><em>Promo page</em></strong></p>
+      <p>Adaptivity: <strong><em>Desktop</em></strong> / <strong><em>Mobile</em></strong></p>
+      <p>Technologies: </p>
+      <img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" />
+		  <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+		  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+      <img src="https://img.shields.io/badge/github-333333?style=for-the-badge&logo=github&logoColor=white" />
 	  </li>
   </ul>
 </details>
