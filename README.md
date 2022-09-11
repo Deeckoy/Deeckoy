@@ -8,7 +8,7 @@ A front-end web developer from Moldova.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Deeckoy&show_icons=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeckoy&layout=compact" />
-[![trophy](https://github-profile-trophy.vercel.app/?username=Deeckoy)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Deeckoy" />
 
 ---
 
